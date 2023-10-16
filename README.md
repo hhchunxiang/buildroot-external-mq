@@ -3,6 +3,7 @@
 这个Git仓库专门支持全志在线 RV64 的平台。这个是针对 `芒果PI MQ` 开发板专门支持的 `BR2_EXTERNAL` 外部扩展支持。
 ## 快速开始
 
+
 ### 环境配置
 
  为了使用 [Buildroot](https://www.builroot.org)，您需要在您的工作站上安装 Linux 发行版。 任何最新的 Linux 发行版（Ubuntu、Debian、Fedora、Redhat、OpenSuse 等）都可以正常工作。
